@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f94069c00dbfc04ca79104358848f3e, type: 3}
+  m_Name: JammoJumpPressed
+  m_EditorClassIdentifier: 
+  value: 0
+  listeningFlags: 1
+  invertedFlags: 0
+  shortCircuit: 1
+  ignoreFollowingContexts: 1
